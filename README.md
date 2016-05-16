@@ -1,0 +1,2 @@
+# Water-level-Indicator-using-microcontroller-8051
+Water Level Indicator indicates the level of water in tank. For this project four levels are considered. quarter of the tank, half tank, three fourth tank and full tank. When water is filled upto the quarter level of the tank, a display on the LCD reads "QUARTER". Similar for half and three-fourth. But when the tank is full, along with the display on LCD, a buzzer is enabled so that it acts as a warning sign. Four wires are dipped to the tank at the four mentioned levels and the output is taken via transistor (BC547). 
